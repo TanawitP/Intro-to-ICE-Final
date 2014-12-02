@@ -1,4 +1,4 @@
-require "./lovemac.rb"
+require "lovemac.rb"
 require "spec_helper"
 describe "lovemac" do
   # Write your test cases in here
